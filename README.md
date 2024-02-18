@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElaraRose13
+- 👋 Hi
 - 👀 I’m interested in ... Video Games, Anime, AI and Pixel Art
 - 🌱 I’m currently learning ... Computer Science
 
